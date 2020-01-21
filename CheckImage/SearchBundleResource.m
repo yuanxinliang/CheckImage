@@ -142,4 +142,8 @@
     return @[@"IntegrateHKID.framework"];
 }
 
+- (void)test {
+    
+}
+
 @end
